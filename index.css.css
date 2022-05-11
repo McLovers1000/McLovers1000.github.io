@@ -1,0 +1,32 @@
+.titulo {
+  background: url('https://i.pinimg.com/originals/84/b1/94/84b1947dc3388092aca2f8143de23567.gif');
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: monospace;
+  text-align: center;
+  width: 1150px;
+  margin: 100px 100px 100px 200px;
+  font-size: 120px;
+  letter-spacing: -3px;
+}
+
+.titulo2 {
+  background: url('https://i.pinimg.com/originals/84/b1/94/84b1947dc3388092aca2f8143de23567.gif');
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: monospace;
+  text-align: center;
+  width: 1150px;
+  margin: 100px 100px 100px 200px;
+  font-size: 120px;
+  letter-spacing: -3px;
+  font-size: 45px;
+}
+
+
+.texto {
+  font-family: monospace;
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
